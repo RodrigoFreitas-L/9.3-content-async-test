@@ -1,7 +1,5 @@
 # Testes Assíncronos
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigofreitas-l&count_private=true&show_owner)](https://github.com/anuraghazra/github-readme-stats)
-
 Esse é o repositório para o conteúdo sobre `Jest Assíncrono`.
 
 ### Antes de iniciar
